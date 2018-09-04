@@ -1,7 +1,7 @@
 from PIL import ImageGrab,ImageOps
 import pyautogui
 import time
-from numpy import *
+from numpy import *   
 
 class Coordinates():
     replayBtn = (383,343)
